@@ -68,7 +68,7 @@
 			<version>1.4.10</version>
 			<configuration>
 				<username>prernakumarinagarro</username>
-				<password>Prerna@2000</password>
+				<password>680dockernagarro</password>
 				<repository>prernakumarinagarro/${project.build.finalName}.jar</repository>
 				<tag>latest</tag>
 				<buildArgs>
