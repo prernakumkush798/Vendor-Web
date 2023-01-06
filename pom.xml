@@ -69,7 +69,7 @@
 			<configuration>
 				<username>prernakumarinagarro</username>
 				<password>Prerna@2000</password>
-				<repository>dockerhubreponame/${project.build.finalName}.jar</repository>
+				<repository>prernakumarinagarro/${project.build.finalName}.jar</repository>
 				<tag>latest</tag>
 				<buildArgs>
 					<JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
